@@ -1,0 +1,11 @@
+{
+  "name": "olist",
+  "dependencies": {
+    "@vulcan-sql/core": "0.3.0-dev.20221025.0",
+    "@vulcan-sql/extension-driver-duckdb": "^0.3.0-dev.20221025.0",
+    "@vulcan-sql/serve": "0.3.0-dev.20221025.0"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.3.0-dev.20221025.0"
+  }
+}

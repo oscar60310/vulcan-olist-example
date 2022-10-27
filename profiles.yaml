@@ -1,0 +1,7 @@
+- name: duckdb # profile name
+  type: duckdb
+  connection:
+    persistent-path: ./db/olist.db
+    log-queries: true
+    log-parameters: true
+  allow: "*"
